@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128799382287",
+    "firebase_url": "https://off-the-beaten-path.firebaseio.com",
+    "project_id": "off-the-beaten-path",
+    "storage_bucket": "off-the-beaten-path.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128799382287:android:24a4b0774dcb4500",
+        "android_client_info": {
+          "package_name": "com.pathteam.Hikeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128799382287-j71ptv2jcgv63c2saq2rriof2btlqs5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNpamKNyZO0Z8oDuBODdaYhBTDwbCSRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

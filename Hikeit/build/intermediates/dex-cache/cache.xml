@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_73e41656189b0c5bc59c88f800f560a9d3d994ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_f9cb08ade93614269176d44c3273c31983494d65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_ae08697b04b823639b812b234a63efdc9e4f5068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_c95f5d8ad9aeca3966d38a543761956c1efc2eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_e41b3f6f4696ccea4b8aedb05b283e4010b0eae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_8ab887ce38a846d4cdf73b392a325157018334bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_09393e08488c3dcac70c6ca306ef2a4eaac33723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_65babe87bc125433082c1c481a26a03c6228b87d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="be8f26083ba98ddf7e3cca05be7d5ac080402d06">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_62b85393c64855fb00176fdd92a4f0d8045578d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_26fd6c4932059812d58d4f6ed592ed503773263e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8dd6d6d4008c67a131245b65aaec071d6895190e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b0c6d8fb86966515ae780ba4e8c2d54f8542b8e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_01967a0ada9e1285bb468cdc68272ac1d84c6141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_5da39bc7f276bbebd2a6382fc54c3dbdd2ab591c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_76bd114cbf20dbe00aee17215492978d91899bbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_9e195eeae83160c240b39407bc1c4081ec9b6bac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50348d358ab032856d5f88b34c43c768451fef7a">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a53d73fee19efcdf44baf9381d7da71a7fbe2333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_8f3f8703314d9d46717e0a6238a2aa9514edba21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8371f070b5b820644336de0bc2ab23467a0d9fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_58b1b6ddb6e7c80fe22a3ed86be4b56727d8a125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_38f5e1f4e0267b37cb5361b1df7dcd8afedee79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_e1819183e8013cdd328ed6fb4accc2199ba09094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_cb86046ca5932c80377d87409a3dd7d2d9fe5d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/nicholashall/GitHub/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_2506d5249a62ac2deae3aab0fb13390f42fb626b/classes.dex" />
+    </item>
+
+</items>

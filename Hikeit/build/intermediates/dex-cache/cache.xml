@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_c464accd535107ab368c9d18e8de26d6a9aad22a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7619788593c1e6a94650d3941ae4ab78e5040eba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_cbf1606f6372a6acaab69e6c3120fc3bcd6cce0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_aea851930d7ac468763cba685444a820e21e1e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_dda46be47f9b827209863116ce7431607cce440b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_cf165eb2297d865fcd29259a0b568299a725fe21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_a22837c43a3b76a2f13ce66c526c4c95017ce653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c153e5e70ff1b719471f7d03e36d7b8bdc2a8dfc">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8a1dde28e21d49aaf63663226b19c1186017511d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_ef5fe480675505f4919ed82c5474f5888151fad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_b409598eafd71c04ded026447ae32908726eab60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_539980b9f1260354dfa6894ffbde3e231dd6c6c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72e99eed44f1922573ffe7cbcb539092cd5afd31">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b02ef4d854f790cc2d5a7328b9e741d63ae60c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_d340666a256205cfd8bc638d80a9c9a17729c845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_75dcbb7648deeecc6c0daba3ec024149d77e4616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b57c0a235a61ef1e727a1bdee3465c18b0674af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_6b43a485c54908624579863ac806e4d111db3ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_7a8245b8bed8b73298fed263753c70a90a6b3c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_7706692c002cadd165d8ee2892b68b6f43929918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1fdd631d4330d00f4bcf7e81173db38000c4c55f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_f144c68f22c7ef43a7e8f3fcb2c37d917344f60a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_a0f3041741d92f1e9696500c1297a88328fb3a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_98d1ed599fd5d5d2bbe0f0c0c1d443e5a84cd981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_99d347c4735bc7488c8fd24d62c67f29ad501796/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alexhughes/Documents/Android-Path/Hikeit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9900b9b7b968d8508099f2dc5a3d2de9d6673c22/classes.dex" />
+    </item>
+
+</items>
